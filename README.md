@@ -165,7 +165,7 @@ Tôi là một **Software Developer** với niềm đam mê sâu sắc trong vi�
 Feel free to connect or explore my codebases!
 
 [![GitHub](https://img.shields.io/badge/GitHub-huyngvan395-181717?style=for-the-badge&logo=github)](https://github.com/huyngvan395)
-[![Email](https://img.shields.io/badge/Email-huyngvan395%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngvanhuy0000@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ngvanhuy0000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngvanhuy0000@gmail.com)
 
 *Crafted with passion & dedication.*
 
